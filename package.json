@@ -1,0 +1,15 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "clear",
+  "main": "npm init -y",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "electron": "^23.1.1"
+  }
+}
