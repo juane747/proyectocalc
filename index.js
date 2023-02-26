@@ -1,3 +1,4 @@
+var Mousetrap= require('mousetrap');
 var botonUno = document.getElementById('botonUno')//conseguimos la informacion de botonUno y la guardamos en variable botoUno
 var actual = document.getElementById('Actual')
 var resultado=document.getElementById('Resultado')
@@ -9,6 +10,8 @@ botonUno.addEventListener('click',clickUno)//escuchamos al hacer clic en botonUn
 botonDos.addEventListener('click',clickdos)
 
 botonSuma.addEventListener('click',clicksuma)
+
+Mousetrap.bind('1',clickUno)
 
 //funcion definida al hacer click en botonUno
 function clickUno(){

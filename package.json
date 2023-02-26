@@ -10,6 +10,7 @@
   "license": "ISC",
   "keywords": [],
   "dependencies": {
-    "electron": "^23.1.1"
+    "electron": "^23.1.1",
+    "mousetrap": "^1.6.5"
   }
 }
