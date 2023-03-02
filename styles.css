@@ -34,3 +34,9 @@ padding:3px
     font-style: italic;
     background-color: rgb(37, 119, 191);
 }
+
+.botonesp{
+  font-weight: bolder;  
+  font-style: oblique;
+  background-color: brown;
+}
