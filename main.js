@@ -13,4 +13,4 @@ function createWindow(){//indicamos que estamos creando una ventana
     ventana.loadFile('index.html')//cargamos nuestra ventana
 }
 
-app.whenReady().then(createWindow)//inicializamos nuestra ventana
+app.whenReady().then(createWindow)//inicializamos nuestra ventana.
