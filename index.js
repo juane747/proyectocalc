@@ -11,7 +11,7 @@ var botonOcho = document.getElementById('botonocho')
 var botonNueve=document.getElementById('botonnueve')
 var botonCero = document.getElementById('botoncero')
 
-//Ventanas de visualizacion
+//Ventanas de visualizacion CORREGIDO
 var actual = document.getElementById('Actual')
 var resultado=document.getElementById('Resultado')
 
